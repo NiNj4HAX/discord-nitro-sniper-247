@@ -3,5 +3,5 @@ A Nitro Sniper auto claims Nitro. Can be hosted on Repl.it 24/7
 
 Make a .env on your Repository.
 Put your Token on .env
-.env Example : TOKEN=token
+| .env Example : TOKEN=token
 Host it on Repl.it as a Python Program
